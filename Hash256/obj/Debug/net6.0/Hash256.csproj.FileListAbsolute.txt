@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\Hash256\Hash256\bin\Debug\net6.0\Hash256.exe
+C:\Users\acer\source\repos\Hash256\Hash256\bin\Debug\net6.0\Hash256.deps.json
+C:\Users\acer\source\repos\Hash256\Hash256\bin\Debug\net6.0\Hash256.runtimeconfig.json
+C:\Users\acer\source\repos\Hash256\Hash256\bin\Debug\net6.0\Hash256.dll
+C:\Users\acer\source\repos\Hash256\Hash256\bin\Debug\net6.0\Hash256.pdb
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\Hash256.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\Hash256.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\Hash256.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\Hash256.AssemblyInfo.cs
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\Hash256.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\Hash256.dll
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\refint\Hash256.dll
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\Hash256.pdb
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\Hash256.genruntimeconfig.cache
+C:\Users\acer\source\repos\Hash256\Hash256\obj\Debug\net6.0\ref\Hash256.dll
